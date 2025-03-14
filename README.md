@@ -22,6 +22,8 @@ This page only represents my personal activities.
 ## 3. [`Proschedio.py`](https://github.com/loldruger/proschedio) (2025.01 ~ Working in Progress)
 > Developer: [loldruger](https://github.com/loldruger) (Me)
 
+> Stack: `Python3`
+
 > A Fully Documented, Typed and Async Wrapped Project for achieving Infrastructure as Code in Python 
 
 # Previous Projects I participated
