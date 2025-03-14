@@ -6,21 +6,22 @@
 > Frontend Developer: [rovks134](https://github.com/rovks134)</br>
 > ~~Main Artist: [persona6737](https://github.com/Kim-Tae-yeon)~~ (Pending)
 
-> Stack: `Godot 4.4 Mono C# 11.0`, `Rust 2024 edition, Tokio Axum`
+> Frontend Stack: `Godot 4.4 Mono C# 11.0`</br>
+> Backend Stack: `Rust 2024 edition, Tokio Axum 0.8`
 
 > A mobile game targeting everyone who loves adorably redesigned animal characters. 
 
-### 2. `Sementic.js` (2024.10 ~ Working in Progress) 
+### 2. `Semantic.js` (2024.10 ~ Working in Progress) 
 > Developer: [loldruger](https://github.com/loldruger) (Me)
 
 > Stack: `Javascript ES2024`, `Typescript 5.8`
 
-> A Fully Documented, Typed and Async Wrapped Project for achieving Infrastructre as Code in Python 
+> Rustify Javascript to Achieve Typesafe Development Using `Option<T>`, `Result<T, E>`, `Tagged-Union`, `Tuple` etc, with Fully Documented by `JSDoc`
 
 ### 3. `Proschedio.py` (2025.01 ~ Working in Progress)
 > Developer: [loldruger](https://github.com/loldruger) (Me)
 
-> Rustify Javascript to Achieve Typesafe Development Using `Option<T>`, `Result<T, E>`, `Tagged-Union`, `Tuple` etc, with Fully Documented by `JSDoc`
+> A Fully Documented, Typed and Async Wrapped Project for achieving Infrastructure as Code in Python 
 
 ## Previous Projects I participated
 ### 1. [`Random Moai Defense`](https://play.google.com/store/apps/details?id=com.davin.moai) (2019.09 ~ 2020.06)
@@ -30,10 +31,10 @@
 
 > Stack: `Godot 3.x`
 
-> It is not just a common fixed-path defense game; every five stages, the monsters' path changes! Additionally, the user places Moai towers. This action may block the path, but the path will make a detour around the Moai tower the user placed. This simple mechanism and the unique Moai concept spread rapidly through many personal media channels. This resulted in our achieving the top spot in `Strategy Game Popularity Rankings` for a long time. Then we briefly reached the top spot in `Comprehensive Game Popularity Rankings` but remained in the `top 5` for a long time. And it has been downloaded a total of over `50,000` times..
+> It is not just a common fixed-path defense game; every five stages, the monsters' path changes! Additionally, the user places Moai towers. This action may block the path, but the path will make a detour around the Moai tower the user placed. This simple mechanism and the unique Moai concept spread rapidly through many personal media channels. This resulted in our achieving the top spot in `Strategy Game Popularity Rankings` for a long time. Then we briefly reached the top spot in `Comprehensive Game Popularity Rankings` but remained in the `top 5` for a long time. And it has been downloaded a total of over `50,000` times.
 
 ### 2. [`빤스런`](https://play.google.com/store/apps/details?id=com.mpmaker.onepark) (2017.11 ~ 2017.12)
-> Main developer: [MPMaker]()</br>
+> Main developer: [MPMaker](https://play.google.com/store/apps/dev?id=7302400084345857961)</br>
 > Main Artist: [loldruger](https://github.com/loldruger) (Me Again)</br>
 > Game Designer: Both of Us
 
@@ -53,17 +54,18 @@
 |빤스런 | ![progress](https://progress-bar.xyz/100/) | 2017.11 ~ 2017.12
 
 ## What Stacks I (At Least) Intermediately Experienced 
-Languages: `C`, `C++`, `Rust`, `Python3`, `Javascript`, `Typscript`, `Java`, `C#`, `Swift`
+Languages: `C`, `C++`, `Rust`, `Python3`, `Javascript`, `Typescript`, `Java`, `C#`, `Swift`
 
 Frameworks: `Vue.js`, `Spring`
 
 Database: `MariaDB`, `PostgreSQL`, `Redis`
 
-Tools: `Postman`, 
+Tools: `Postman`
 
 etc: `Shell`, `PowerShell`
 
-
+## Contact Me
+> ykvcwp2kq@mozmail.com
 
 <!--
 **loldruger/loldruger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
