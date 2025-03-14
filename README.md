@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+## Previous Projects I participated
+> 1. `빤스런`
+>
+> 
+
+> 2. `Random Moai Defense`
+>
+> 
+
+## My Current Major Projects
+> 1. `Dreamscape Forest Anipals`
+> - A mobile game targeting everyone who loves cute animal characters. 
+>
+
+> 2. `Sementic.js`
+
+> 3. `Proschedio.py`
+-- asdf
+
+### Progress of 
 <!--
 **loldruger/loldruger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
