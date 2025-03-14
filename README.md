@@ -17,14 +17,14 @@ This page only represents my personal activities.
 
 > Stack: `Javascript ES2024`, `Typescript 5.8`
 
-> Rustify Javascript to Achieve Typesafe Development Using `Option<T>`, `Result<T, E>`, `Tagged-Union`, `Tuple` etc, with Fully Documented by `JSDoc`
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=semantic.js)](https://github.com/loldruger/semantic.js)
 
 ## 3. [`Proschedio.py`](https://github.com/loldruger/proschedio) (2025.01 ~ Working in Progress)
 > Developer: [loldruger](https://github.com/loldruger) (Me)
 
 > Stack: `Python3`
 
-> A Fully Documented, Typed and Async Wrapped Project for achieving Infrastructure as Code in Python 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=proschedio)](https://github.com/loldruger/proschedio)
 
 # Previous Projects I participated
 ## 1. [`Random Moai Defense`](https://play.google.com/store/apps/details?id=com.davin.moai) (2019.09 ~ 2020.06)
@@ -55,6 +55,14 @@ This page only represents my personal activities.
 |Semantic.js| ![progress](https://progress-bar.xyz/33/)| 2024.10 ~ WIP
 |Random Moai Defense | ![progress](https://progress-bar.xyz/100/) | 2019.09 ~ 2020.06
 |빤스런 | ![progress](https://progress-bar.xyz/100/) | 2017.11 ~ 2017.12
+<!--
+<a href="https://github.com/loldruger/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=loldruger" />
+</a>
+-->
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loldruger&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 # What Stacks I (At Least) Intermediately Experienced 
 Languages: `C`, `C++`, `Rust`, `Python3`, `Javascript`, `Typescript`, `Java`, `C#`, `Swift`
