@@ -1,21 +1,32 @@
 ## Hi there 👋
 
 ## 🔭My Current Major Projects
-1. `Dreamscape Forest Anipals`
-> - A mobile game targeting everyone who loves cute animal characters. 
->
+### 1. `Dreamscape Forest Anipals`
+> Backend Developer: [loldruger](https://github.com/loldruger) (Me)</br>
+> Frontend Developer: [rovks134](https://github.com/rovks134)</br>
+> ~~Main Artist: [persona6737](https://github.com/Kim-Tae-yeon)~~ (Pending)
 
-2. `Sementic.js`
+> Stack: `Godot 4.4 Mono C# 11.0`, `Rust 2024 edition, Tokio Axum`
 
-3. `Proschedio.py`
--- asdf
+> A mobile game targeting everyone who loves adorably redesigned animal characters. 
 
+### 2. `Sementic.js` (2024.10 ~ Working In Progress)
+> Developer: [loldruger](https://github.com/loldruger) (Me)
+
+> Stack: `Javascript ES2024`, `Typescript 5.8`
+
+> A Fully Documented, Typed and Async Wrapped Project for achieving Infrastructre as Code in Python 
+
+### 3. `Proschedio.py` (2025.01 ~ Working In Progress)
+> Developer: [loldruger](https://github.com/loldruger) (Me)
+
+> Rustify Javascript to Achieve Typesafe Development Using Option<T>, Result<T, E>, Tagged-Union, Tuple etc, with Fully Documented by JSDoc 
 ### Progress of 
 
 ## Previous Projects I participated
 ### 1. [`Random Moai Defense`](https://play.google.com/store/apps/details?id=com.davin.moai) (2019.09 ~ 2020.06)
 > Main Developer: [Dabin](https://github.com/MyNameIsDabin)</br>
-> Main Artist & Sub Dev : [loldruger](https://github.com/loldruger) (Me)</br>
+> Main Artist & Sub Dev: [loldruger](https://github.com/loldruger) (Me)</br>
 > Game Designer: Both of Us
 
 > Stack: `Godot 3.x`
