@@ -26,6 +26,14 @@ This page only represents my personal activities.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=proschedio)](https://github.com/loldruger/proschedio)
 
+# Maintaining Projects
+## 1. [`Upbit-rs`](https://github.com/loldruger/upbit-rs) (2023.03 ~ Maintaining)
+> Developer: [loldruger](https://github.com/loldruger) (Me)
+
+> Stack: `Rust 2021 Edition, Reqwest`
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=upbit-rs)](https://github.com/loldruger/upbit-rs)
+
 # Previous Projects I participated
 ## 1. [`Random Moai Defense`](https://play.google.com/store/apps/details?id=com.davin.moai) (2019.09 ~ 2020.06)
 > Main Developer: [Dabin](https://github.com/MyNameIsDabin)</br>
@@ -53,6 +61,7 @@ This page only represents my personal activities.
 |DFA Frontend| ![progress](https://progress-bar.xyz/20/)| 2025.02 ~ WIP
 |Proschedio.py | ![progress](https://progress-bar.xyz/10/) | 2025.01 ~ WIP
 |Semantic.js| ![progress](https://progress-bar.xyz/33/)| 2024.10 ~ WIP
+|Upbit-rs|![progress](https://progress-bar.xyz/100)| 2023.03 ~ Maintaining
 |Random Moai Defense | ![progress](https://progress-bar.xyz/100/) | 2019.09 ~ 2020.06
 |빤스런 | ![progress](https://progress-bar.xyz/100/) | 2017.11 ~ 2017.12
 <!--
