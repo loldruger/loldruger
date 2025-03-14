@@ -72,7 +72,7 @@ This page only represents my personal activities.
 </a>
 -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loldruger&layout=compact&langs_count=8&card_width=470" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loldruger&layout=compact&langs_count=8&card_width=440" />
 </a>
 
 # Stacks I (At Least) Intermediately Experienced 
