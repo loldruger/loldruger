@@ -4,7 +4,7 @@ This page only represents my personal activities.
 # 🔭My Current Major Projects
 ## 1. `Dreamscape Forest Anipals` (2025.02 ~ Working in Progress)
 > **Backend Developer**: [loldruger](https://github.com/loldruger) (Me)</br>
-> **Frontend Developer**: [rovks134](https://github.com/rovks134)</br>
+> **Frontend Developer**: [rovks134](https://github.com/rovks134), [loldruger](https://github.com/loldruger) (Me) </br>
 > ~~**Main Artist**: [persona6737](https://github.com/Kim-Tae-yeon)~~ (Pending)
 
 > **Frontend Stack**: `Godot 4.4 Mono C# 11.0`</br>
