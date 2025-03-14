@@ -1,7 +1,8 @@
 ## Hi there 👋
+This page only represents my personal activities. 
 
-## 🔭My Current Major Projects
-### 1. `Dreamscape Forest Anipals` (2025.02 ~ Working in Progress)
+# 🔭My Current Major Projects
+## 1. `Dreamscape Forest Anipals` (2025.02 ~ Working in Progress)
 > Backend Developer: [loldruger](https://github.com/loldruger) (Me)</br>
 > Frontend Developer: [rovks134](https://github.com/rovks134)</br>
 > ~~Main Artist: [persona6737](https://github.com/Kim-Tae-yeon)~~ (Pending)
@@ -11,20 +12,20 @@
 
 > A mobile game targeting everyone who loves adorably redesigned animal characters. 
 
-### 2. `Semantic.js` (2024.10 ~ Working in Progress) 
+## 2. `Semantic.js` (2024.10 ~ Working in Progress) 
 > Developer: [loldruger](https://github.com/loldruger) (Me)
 
 > Stack: `Javascript ES2024`, `Typescript 5.8`
 
 > Rustify Javascript to Achieve Typesafe Development Using `Option<T>`, `Result<T, E>`, `Tagged-Union`, `Tuple` etc, with Fully Documented by `JSDoc`
 
-### 3. `Proschedio.py` (2025.01 ~ Working in Progress)
+## 3. `Proschedio.py` (2025.01 ~ Working in Progress)
 > Developer: [loldruger](https://github.com/loldruger) (Me)
 
 > A Fully Documented, Typed and Async Wrapped Project for achieving Infrastructure as Code in Python 
 
-## Previous Projects I participated
-### 1. [`Random Moai Defense`](https://play.google.com/store/apps/details?id=com.davin.moai) (2019.09 ~ 2020.06)
+# Previous Projects I participated
+## 1. [`Random Moai Defense`](https://play.google.com/store/apps/details?id=com.davin.moai) (2019.09 ~ 2020.06)
 > Main Developer: [Dabin](https://github.com/MyNameIsDabin)</br>
 > Main Artist & Sub Dev: [loldruger](https://github.com/loldruger) (Me)</br>
 > Game Designer: Both of Us
@@ -33,7 +34,7 @@
 
 > It is not just a common fixed-path defense game; every five stages, the monsters' path changes! Additionally, the user places Moai towers. This action may block the path, but the path will make a detour around the Moai tower the user placed. This simple mechanism and the unique Moai concept spread rapidly through many personal media channels. This resulted in our achieving the top spot in `Strategy Game Popularity Rankings` for a long time. Then we briefly reached the top spot in `Comprehensive Game Popularity Rankings` but remained in the `top 5` for a long time. And it has been downloaded a total of over `50,000` times.
 
-### 2. [`빤스런`](https://play.google.com/store/apps/details?id=com.mpmaker.onepark) (2017.11 ~ 2017.12)
+## 2. [`빤스런`](https://play.google.com/store/apps/details?id=com.mpmaker.onepark) (2017.11 ~ 2017.12)
 > Main developer: [MPMaker](https://play.google.com/store/apps/dev?id=7302400084345857961)</br>
 > Main Artist: [loldruger](https://github.com/loldruger) (Me Again)</br>
 > Game Designer: Both of Us
@@ -42,7 +43,7 @@
 
 > With minimal interaction, such as tapping or long tapping, players can make the character run faster or perform parkour moves to escape the inferno. `빤스런` was incredibly popular in Korea during that time. We quickly achieved the top spot in `the Comprehensive Popularity Rankings` for games on the `Google Play Store` and maintained it for a significant period. As a result, the game has been downloaded over 500,000 times and is loved by players.
 
-### Progress of My Projects
+## Progress of My Projects
 
 |Project|progress| period |
 |:--|:--|:-- |
@@ -53,7 +54,7 @@
 |Random Moai Defense | ![progress](https://progress-bar.xyz/100/) | 2019.09 ~ 2020.06
 |빤스런 | ![progress](https://progress-bar.xyz/100/) | 2017.11 ~ 2017.12
 
-## What Stacks I (At Least) Intermediately Experienced 
+# What Stacks I (At Least) Intermediately Experienced 
 Languages: `C`, `C++`, `Rust`, `Python3`, `Javascript`, `Typescript`, `Java`, `C#`, `Swift`
 
 Frameworks: `Vue.js`, `Spring`
