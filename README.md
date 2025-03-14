@@ -41,6 +41,7 @@ This page only represents my personal activities.
 > Game Designer: Both of Us
 
 > Stack: `Godot 3.x`
+> Available on: `Android`, `iOS`
 
 > It is not just a common fixed-path defense game; every five stages, the monsters' path changes! Additionally, the user places Moai towers. This action may block the path, but the path will make a detour around the Moai tower the user placed. This simple mechanism and the unique Moai concept spread rapidly through many personal media channels. This resulted in our achieving the top spot in `Strategy Game Popularity Rankings` for a long time. Then we briefly reached the top spot in `Comprehensive Game Popularity Rankings` but remained in the `top 5` for a long time. And it has been downloaded a total of over `50,000` times.
 
@@ -50,6 +51,9 @@ This page only represents my personal activities.
 > Game Designer: Both of Us
 
 > Stack: `Game Maker Studio`
+> Available on: `Android`, `iOS`
+
+
 
 > With minimal interaction, such as tapping or long tapping, players can make the character run faster or perform parkour moves to escape the inferno. `빤스런` was incredibly popular in Korea during that time. We quickly achieved the top spot in `the Comprehensive Popularity Rankings` for games on the `Google Play Store` and maintained it for a significant period. As a result, the game has been downloaded over 500,000 times and is loved by players.
 
