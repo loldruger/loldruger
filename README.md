@@ -20,7 +20,7 @@
 ### 3. `Proschedio.py` (2025.01 ~ Working In Progress)
 > Developer: [loldruger](https://github.com/loldruger) (Me)
 
-> Rustify Javascript to Achieve Typesafe Development Using Option<T>, Result<T, E>, Tagged-Union, Tuple etc, with Fully Documented by JSDoc 
+> Rustify Javascript to Achieve Typesafe Development Using `Option<T>`, `Result<T, E>`, `Tagged-Union`, `Tuple` etc, with Fully Documented by `JSDoc`
 ### Progress of 
 
 ## Previous Projects I participated
