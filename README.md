@@ -37,7 +37,7 @@ This page only represents my personal activities.
 > It is not just a common fixed-path defense game; every five stages, the monsters' path changes! Additionally, the user places Moai towers. This action may block the path, but the path will make a detour around the Moai tower the user placed. This simple mechanism and the unique Moai concept spread rapidly through many personal media channels. This resulted in our achieving the top spot in `Strategy Game Popularity Rankings` for a long time. Then we briefly reached the top spot in `Comprehensive Game Popularity Rankings` but remained in the `top 5` for a long time. And it has been downloaded a total of over `50,000` times.
 
 ## 2. [`빤스런`](https://play.google.com/store/apps/details?id=com.mpmaker.onepark) (2017.11 ~ 2017.12)
-> Main developer: [MPMaker](https://play.google.com/store/apps/dev?id=7302400084345857961)</br>
+> Main Developer: [MPMaker](https://play.google.com/store/apps/dev?id=7302400084345857961)</br>
 > Main Artist: [loldruger](https://github.com/loldruger) (Me Again)</br>
 > Game Designer: Both of Us
 
