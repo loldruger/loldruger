@@ -75,7 +75,7 @@ This page only represents my personal activities.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loldruger&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-# What Stacks I (At Least) Intermediately Experienced 
+# Stacks I (At Least) Intermediately Experienced 
 Languages: `C`, `C++`, `Rust`, `Python3`, `Javascript`, `Typescript`, `Java`, `C#`, `Swift`
 
 Frameworks: `Node.js`, `Deno`, `Vue.js`, `Spring`
