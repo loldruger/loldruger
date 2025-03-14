@@ -59,16 +59,18 @@ This page only represents my personal activities.
 # What Stacks I (At Least) Intermediately Experienced 
 Languages: `C`, `C++`, `Rust`, `Python3`, `Javascript`, `Typescript`, `Java`, `C#`, `Swift`
 
-Frameworks: `Vue.js`, `Spring`
+Frameworks: `Node.js`, `Deno`, `Vue.js`, `Spring`
 
 Database: `MariaDB`, `PostgreSQL`, `Redis`
 
-Tools: `Postman`
+Tools & engines: `Godot 4`, `Postman`, `Docker`
 
 etc: `Shell`, `PowerShell`
 
 ## Contact Me
 > ykvcwp2kq@mozmail.com
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=loldruger&left_color=green&right_color=red)
 
 <!--
 **loldruger/loldruger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
