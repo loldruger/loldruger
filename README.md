@@ -85,7 +85,7 @@ After you read my profile and got curious more, ➡️ **[View Full Resume](http
 
 **Tools** & **engines**: `Godot 4`, `Postman`, `Docker`
 
-**etc**: `Shell`, `PowerShell`
+**etc**: `BashShell`, `PowerShell`
 
 ## Contact Me
 > ykvcwp2kq@mozmail.com
