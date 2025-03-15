@@ -81,9 +81,9 @@ After you read my profile and got curious more, ➡️ **[View Full Resume](http
 
 **Frameworks**: `Node.js`, `Deno`, `Vue.js`, `Spring`
 
-**Database**: `MariaDB`, `PostgreSQL`, `Redis`
+**Databases**: `PostgreSQL`, `MariaDB`, `SQLite`, `Redis`, `JSON DB with Expoiting Postman`
 
-**Tools** & **engines**: `Godot 4`, `Postman`, `Docker`
+**Tools** & **Engines**: `Godot 4`, `Postman`, `Docker`
 
 **etc**: `BashShell`, `PowerShell`
 
