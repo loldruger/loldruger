@@ -1,6 +1,6 @@
 ## Hi there 👋
 This page only represents my personal activities. 
-After you read my profile and got curious more, ➡️ **[View Full Resume](loldruger.github.io)**
+After you read my profile and got curious more, ➡️ **[View Full Resume](https://loldruger.github.io)**
 
 # 🔭My Current Major Projects
 ## 1. `Dreamscape Forest Anipals` (2025.02 ~ Working in Progress)
