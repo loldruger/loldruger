@@ -1,5 +1,5 @@
 ## Hi there 👋
-This page only represents my personal activities. 
+This page only represents my personal activities. </br>
 After you read my profile and got curious more, ➡️ **[View Full Resume](https://loldruger.github.io)**
 
 # 🔭My Current Major Projects
