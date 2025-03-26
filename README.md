@@ -61,7 +61,7 @@ After you read my profile and got curious more, ➡️ **[View Full Resume](http
 |Project|progress| period |
 |:--|:--|:-- |
 |DFA Backend| ![progress](https://progress-bar.xyz/0/)| 2025.02 ~ WIP
-|DFA Frontend| ![progress](https://progress-bar.xyz/20/)| 2025.02 ~ WIP
+|DFA Frontend| ![progress](https://progress-bar.xyz/25/)| 2025.02 ~ WIP
 |Proschedio.py | ![progress](https://progress-bar.xyz/10/) | 2025.01 ~ WIP
 |Semantic.js| ![progress](https://progress-bar.xyz/33/)| 2024.10 ~ WIP
 |Upbit-rs|![progress](https://progress-bar.xyz/100?progress_color=33a0da)| 2023.03 ~ Maintaining
