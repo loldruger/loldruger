@@ -26,6 +26,7 @@ After you read my profile and got curious more, ➡️ **[View Full Resume](http
 > **Stack**: `Python3`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=proschedio)](https://github.com/loldruger/proschedio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=proschedio-vultr)](https://github.com/loldruger/proschedio-vultr)
 
 # Maintaining Projects
 ## 1. [`Upbit-rs`](https://github.com/loldruger/upbit-rs) (2023.03 ~ Maintaining)
