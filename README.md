@@ -16,7 +16,7 @@ After you read my profile and got curious more, ➡️ **[View Full Resume](http
 ## 2. [`Semantic.js`](https://github.com/loldruger/semantic.js) (2024.10 ~ Working in Progress) 
 > **Developer**: [loldruger](https://github.com/loldruger) (Me)
 
-> **Stack**: `Javascript ES2024`, `Typescript 5.8`
+> **Stack**: `Javascript ES2023`, `Typescript 5.8`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=semantic.js)](https://github.com/loldruger/semantic.js)
 
