@@ -11,8 +11,9 @@ After you read my profile and got curious more, ➡️ **[View Full Resume](http
 > **Frontend Stack**: `Godot 4.4 Mono C# 11.0`</br>
 > **Backend Stack**: `Rust 2024 edition, Tokio Axum 0.8`
 
-> A mobile game targeting everyone who loves adorably redesigned animal characters. 
+> A mobile game targeting everyone who loves adorably redesigned animal characters.
 
+## 2. Rustify Series
 ## 2-1. [`Semantic.js`](https://github.com/loldruger/semantic.js) (2024.10 ~ Working in Progress) 
 > **Developer**: [loldruger](https://github.com/loldruger) (Me)
 
@@ -77,6 +78,8 @@ After you read my profile and got curious more, ➡️ **[View Full Resume](http
 |DFA Frontend| ![progress](https://progress-bar.xyz/25/)| 2025.02 ~ WIP
 |Proschedio.py | ![progress](https://progress-bar.xyz/20/) | 2025.01 ~ WIP
 |Semantic.js| ![progress](https://progress-bar.xyz/66/)| 2024.10 ~ WIP
+|Rustipy| ![progress](https://progress-bar.xyz/100?progress_color=33a0da)| 2025.04 ~ Maintaining
+|Rustify| ![progress](https://progress-bar.xyz/100?progress_color=33a0da)| 2025.03 ~ Maintaining
 |Proschedio-vultr.py | ![progress](https://progress-bar.xyz/100?progress_color=33a0da) | 2025.04 ~ Maintaining
 |Upbit-rs|![progress](https://progress-bar.xyz/100?progress_color=33a0da)| 2023.03 ~ Maintaining
 |Random Moai Defense | ![progress](https://progress-bar.xyz/100/) | 2019.09 ~ 2020.06
