@@ -13,12 +13,27 @@ After you read my profile and got curious more, ➡️ **[View Full Resume](http
 
 > A mobile game targeting everyone who loves adorably redesigned animal characters. 
 
-## 2. [`Semantic.js`](https://github.com/loldruger/semantic.js) (2024.10 ~ Working in Progress) 
+## 2-1. [`Semantic.js`](https://github.com/loldruger/semantic.js) (2024.10 ~ Working in Progress) 
 > **Developer**: [loldruger](https://github.com/loldruger) (Me)
 
 > **Stack**: `Javascript ES2023`, `Typescript 5.8`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=semantic.js)](https://github.com/loldruger/semantic.js)
+
+## 2-2. [`Rustipy.js`](https://github.com/loldruger/Rustipy) (2025.04 ~ Working in Progress) 
+> **Developer**: [loldruger](https://github.com/loldruger) (Me)
+
+> **Stack**: `Python 3.10`
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=rustipy)](https://github.com/loldruger/rustipy)
+
+## 2-3. [`Rustipy.js`](https://github.com/loldruger/Rustify) (2025.03 ~ Working in Progress) 
+> **Developer**: [loldruger](https://github.com/loldruger) (Me)
+
+> **Stack**: `.NET 7.0~`, `C# 10`
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=rustify)](https://github.com/loldruger/rustify)
+
 
 ## 3. [`Proschedio.py`](https://github.com/loldruger/proschedio) (2025.01 ~ Working in Progress)
 > **Developer**: [loldruger](https://github.com/loldruger) (Me)
@@ -65,7 +80,7 @@ After you read my profile and got curious more, ➡️ **[View Full Resume](http
 |DFA Backend| ![progress](https://progress-bar.xyz/0/)| 2025.02 ~ WIP
 |DFA Frontend| ![progress](https://progress-bar.xyz/25/)| 2025.02 ~ WIP
 |Proschedio.py | ![progress](https://progress-bar.xyz/20/) | 2025.01 ~ WIP
-|Semantic.js| ![progress](https://progress-bar.xyz/33/)| 2024.10 ~ WIP
+|Semantic.js| ![progress](https://progress-bar.xyz/66/)| 2024.10 ~ WIP
 |Proschedio-vultr.py | ![progress](https://progress-bar.xyz/100?progress_color=33a0da) | 2025.04 ~ Maintaining
 |Upbit-rs|![progress](https://progress-bar.xyz/100?progress_color=33a0da)| 2023.03 ~ Maintaining
 |Random Moai Defense | ![progress](https://progress-bar.xyz/100/) | 2019.09 ~ 2020.06
