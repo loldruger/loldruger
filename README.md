@@ -21,19 +21,15 @@ After you read my profile and got curious more, ➡️ **[View Full Resume](http
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=semantic.js)](https://github.com/loldruger/semantic.js)
 
 ## 2-2. [`Rustipy`](https://github.com/loldruger/Rustipy) (2025.04 ~ Working in Progress) 
-> **Developer**: [loldruger](https://github.com/loldruger) (Me)
-
 > **Stack**: `Python 3.10`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=rustipy)](https://github.com/loldruger/rustipy)
 
-## 2-3. [`Rustify`](https://github.com/loldruger/Rustify) (2025.03 ~ Working in Progress) 
-> **Developer**: [loldruger](https://github.com/loldruger) (Me)
 
+## 2-3. [`Rustify`](https://github.com/loldruger/Rustify) (2025.03 ~ Working in Progress) 
 > **Stack**: `.NET 7.0~`, `C# 10`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=loldruger&repo=rustify)](https://github.com/loldruger/rustify)
-
 
 ## 3. [`Proschedio.py`](https://github.com/loldruger/proschedio) (2025.01 ~ Working in Progress)
 > **Developer**: [loldruger](https://github.com/loldruger) (Me)
